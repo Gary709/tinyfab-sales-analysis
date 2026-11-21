@@ -1,0 +1,36 @@
+order_id,order_date,cancelled_date,is_test,financial_status,fulfillment_status,currency,total_price,subtotal,total_shipping,total_discounts,total_tax,total_refunded,discount_codes,shipping_method,region,is_act,source_name,channel,customer_id
+O001,2026-08-02,2026-08-02,false,REFUNDED,FULFILLMENT_NOT_REQUIRED,AUD,1.00,1.00,0.00,0.00,0.00,1.00,,Local Delivery,Canberra local,true,web,Online Store,C01
+O002,2026-08-08,,false,PAID,FULFILLED,AUD,212.55,212.55,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C02
+O003,2026-08-13,,false,PAID,FULFILLED,AUD,48.69,48.69,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C03
+O004,2026-08-15,,true,PAID,READY_FOR_DELIVERY,AUD,79.95,79.95,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C01
+O005,2026-08-15,,true,PAID,FULFILLED,AUD,17.99,17.99,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C01
+O006,2026-08-16,,false,PAID,FULFILLED,AUD,16.35,16.35,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C04
+O007,2026-08-18,,false,PAID,FULFILLED,AUD,16.35,16.35,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C05
+O008,2026-09-08,,false,PAID,FULFILLED,AUD,16.49,16.49,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C04
+O009,2026-09-17,,false,PAID,FULFILLED,AUD,164.90,164.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C02
+O010,2026-09-17,,false,PAID,FULFILLED,AUD,16.49,16.49,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C04
+O011,2026-09-18,,false,PAID,FULFILLED,AUD,16.49,16.49,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C06
+O012,2026-09-20,,true,PAID,UNFULFILLED,AUD,54.22,39.90,14.32,0.00,0.00,0.00,,Aramex ATL (No signature - loss/theft after delivery not covered),NSW,false,web,Online Store,C01
+O013,2026-09-20,,true,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C01
+O014,2026-09-20,,true,PAID,FULFILLED,AUD,16.49,16.49,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C01
+O015,2026-09-20,,true,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C01
+O016,2026-09-23,,false,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C07
+O017,2026-09-24,,false,PAID,FULFILLED,AUD,72.88,72.88,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C08
+O018,2026-09-24,2026-09-24,false,REFUNDED,FULFILLMENT_NOT_REQUIRED,AUD,0.01,0.01,0.00,0.00,0.00,0.01,,Local Delivery,Canberra local,true,web,Online Store,C01
+O019,2026-09-25,,false,PAID,FULFILLED,AUD,240.78,240.78,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C02
+O020,2026-09-26,,false,PAID,FULFILLED,AUD,48.97,48.97,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C09
+O021,2026-10-03,,false,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C10
+O022,2026-10-15,,false,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C11
+O023,2026-10-17,,false,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C12
+O024,2026-10-19,,false,PAID,FULFILLED,AUD,313.31,313.31,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C02
+O025,2026-10-21,,false,PAID,FULFILLED,AUD,32.98,32.98,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C06
+O026,2026-10-22,,false,PAID,FULFILLED,AUD,35.98,35.98,0.00,0.00,0.00,0.00,,Local Delivery,NSW,false,web,Online Store,C13
+O027,2026-10-23,,false,PAID,FULFILLED,AUD,71.96,71.96,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C14
+O028,2026-10-31,,false,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C15
+O029,2026-11-02,,false,PAID,FULFILLED,AUD,63.96,63.96,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C16
+O030,2026-11-04,,false,PAID,FULFILLED,AUD,16.49,16.49,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C15
+O031,2026-11-09,,false,PAID,FULFILLED,AUD,148.41,148.41,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C02
+O032,2026-11-12,,false,PAID,FULFILLED,AUD,183.81,183.81,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C17
+O033,2026-11-15,,false,PAID,FULFILLED,AUD,48.47,48.47,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C14
+O034,2026-11-16,,false,PAID,FULFILLED,AUD,15.99,15.99,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C17
+O035,2026-11-21,,false,PAID,FULFILLED,AUD,39.90,39.90,0.00,0.00,0.00,0.00,,Local Delivery,Canberra local,true,web,Online Store,C09
